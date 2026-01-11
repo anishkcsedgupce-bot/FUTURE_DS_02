@@ -32,5 +32,5 @@ The dataset includes customer subscription information such as customer ID, tenu
 
 ## Conclusion
 By analyzing customer behavior and churn patterns, businesses can implement effective retention strategies to reduce customer loss and improve long-term customer value.
-This project demonstrates practical data analysis skills using Excel as part of the FUTURE_DS internship program.
-Project Report (PDF): Click here to view
+
+Project Report (PDF): [Click here to view](./FUTURE_DS_Task2_Customer_Retention_Churn_Analysis_Report.pdf)
